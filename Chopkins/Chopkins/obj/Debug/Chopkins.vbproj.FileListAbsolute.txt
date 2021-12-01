@@ -1,0 +1,13 @@
+C:\Users\dell\source\repos\Chopkins\Chopkins\obj\Debug\Chopkins.vbproj.AssemblyReference.cache
+C:\Users\dell\source\repos\Chopkins\Chopkins\obj\Debug\Chopkins.vbproj.SuggestedBindingRedirects.cache
+C:\Users\dell\source\repos\Chopkins\Chopkins\obj\Debug\Chopkins.Resources.resources
+C:\Users\dell\source\repos\Chopkins\Chopkins\obj\Debug\Chopkins.vbproj.GenerateResource.cache
+C:\Users\dell\source\repos\Chopkins\Chopkins\obj\Debug\Chopkins.vbproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Chopkins\Chopkins\bin\Debug\Chopkins.exe.config
+C:\Users\dell\source\repos\Chopkins\Chopkins\bin\Debug\Chopkins.exe
+C:\Users\dell\source\repos\Chopkins\Chopkins\bin\Debug\Chopkins.pdb
+C:\Users\dell\source\repos\Chopkins\Chopkins\bin\Debug\Chopkins.xml
+C:\Users\dell\source\repos\Chopkins\Chopkins\obj\Debug\Chopkins.Form1.resources
+C:\Users\dell\source\repos\Chopkins\Chopkins\obj\Debug\Chopkins.exe
+C:\Users\dell\source\repos\Chopkins\Chopkins\obj\Debug\Chopkins.xml
+C:\Users\dell\source\repos\Chopkins\Chopkins\obj\Debug\Chopkins.pdb
